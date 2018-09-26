@@ -14,13 +14,12 @@ import android.view.KeyEvent;
 import android.view.View;
 import android.view.inputmethod.EditorInfo;
 import android.widget.EditText;
-import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.android.codelabs.javapaging.Injection;
+import com.example.android.codelabs.javapaging.R;
 import com.example.android.codelabs.javapaging.model.Repo;
-import com.example.android.codelabs.paging.R;
 
 import java.util.List;
 

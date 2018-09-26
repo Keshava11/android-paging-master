@@ -22,7 +22,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion rootProject.compileSdkVersion
     defaultConfig {
-        applicationId "com.example.android.codelabs.paging"
+        applicationId "com.example.android.codelabs.javapaging"
         minSdkVersion rootProject.minSdkVersion
         targetSdkVersion rootProject.targetSdkVersion
         versionCode 1
